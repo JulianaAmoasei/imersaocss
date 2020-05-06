@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
   background-size: auto 100vh; 
